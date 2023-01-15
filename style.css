@@ -1,0 +1,104 @@
+
+nav{
+    position: absolute;
+    width: 477px;
+    height: 26px;
+    left: 1203px;
+    top: 63px; 
+    padding: 20px;
+    
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    
+}
+header{
+    display: flex;
+    position: absolute;
+    
+}
+.title{
+    position: absolute;
+    width: 302px;
+    height: 53px;
+    left: 228px;
+    top: 50px;
+    text-align: center;
+}
+/* main section---------title */
+
+    
+
+.main-section{
+    position: absolute;
+    width: 862px;
+    height: 225px;
+    left: 529px;
+    top: 205px;
+    text-align: center;
+
+}
+.main-section-title{
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 75px;
+}
+.main-section-body{
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #727272;
+}
+/* button--------- */
+.main-section-button{
+    /* position: absolute; */
+    background-color:#ff900e;
+    border-radius: 8px;
+}
+.button-tx{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 7px;
+
+
+}
+/* banner image---------- */
+.banner{
+    position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 240px;
+    top: 677px;
+    border-radius: 8px;
+}
+/* bodysection-------------- */
+.body-section{
+    position: absolute;
+    
+    height: 708px;
+    width: 708px;
+    left: 301px;
+    top: 1407px;
+    padding-top:85px ;
+}
+.img-body{
+    padding: 5px;
+}
+.body-header{
+    position: absolute;
+    width: 537px;
+    height: 304px;
+    left: 1082px;
+    top: 1609px;
+}
+/* boy-button----------- */
+.boy-section-button{
+    background-color:#ff900e;
+    border-radius: 8px;
+}
+.body-pra{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
