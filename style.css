@@ -102,3 +102,37 @@ header{
     font-size: 16px;
     line-height: 26px;
 }
+/* description section============================== */
+.description-section{
+    background-color: lightblue;
+    position:absolute;
+    width: 1440px;
+    height: 1059px;
+    left: 240px;
+    top: 2354px;
+}
+.line{
+    position:absolute;
+    width: 5px;
+    height: 106px;
+    background: #ff900e;
+    left: 40px;
+    top: 37px;
+}
+.dis-header{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 53px;
+    position: absolute;
+    width: 468px;
+    height: 106px;
+    left: 66px;
+
+}
+.dis-pra{
+    position: absolute;
+    width: 586px;
+    height: 78px;
+    left: 40px;
+    top: 160px;
+}
