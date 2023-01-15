@@ -104,8 +104,10 @@ header{
 }
 /* description section============================== */
 .description-section{
-    background-color: lightblue;
+    /* background-color: lightblue; */
     position:absolute;
+    display: flex;
+    justify-content: end;
     width: 1440px;
     height: 1059px;
     left: 240px;
@@ -135,4 +137,163 @@ header{
     height: 78px;
     left: 40px;
     top: 160px;
+}
+/* 
+last pra--------------------- */
+.title-dis{
+    
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+}
+.pra-dis{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.dextop{
+    position: absolute;
+    width: 586px;
+    height: 171px;
+    left: 80px;
+    top: 290px;
+}
+.drag{
+    position: absolute;
+    width: 586px;
+    height: 171px;
+    left: 80px;
+    top: 430px;
+}
+.awesome{
+    position: absolute;
+    width: 586px;
+    height: 171px;
+    left: 80px;
+    top: 580px;
+}
+.supre{
+    position: absolute;
+    width: 586px;
+    height: 171px;
+    left: 80px;
+    top: 730px;
+}
+/* 10 year ------------------ */
+.year{
+    position: absolute;
+    width: 342px;
+    height: 200px;
+    left: 888px;
+    top:3204px;
+    background: #ff900e;
+
+}
+.year-title{
+   font-size: 65px;
+   font-weight: 700;
+   text-align: center;
+   
+
+   
+}
+.year-dis{
+   
+    font-size: 25px;
+    font-weight: 500px;
+    line-height: 40px;
+    text-align: center;
+}
+
+/* some------------------------- */
+.some{
+    position: absolute;
+    width: 542px;
+    height: 52px;
+    left: 248px;
+    top: 3511px;
+}
+.some-title{
+    font-size:48px ;
+    font-weight: 700;
+    line-height: 53px;
+}
+.some-pra{
+    font-size:16px ;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+/* logo section */
+.logo-container{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    top: 3764px;
+    
+    left: 290px;
+    gap: 200px;
+
+}
+.logo-image{
+    position: absolute;
+    text-align: center;
+    
+}
+.number{
+    font-size: 45px;
+    text-align: center;
+
+}
+.number-pra{
+    font-size: 25px;
+    text-align: center;
+}
+
+
+/* our section ------------*/
+.our{
+    position: absolute;
+    width: 542px;
+    height: 129px;
+    left: 689px;
+    top: 4085px;
+}
+.our-title{
+    font-size:48px ;
+    font-weight: 700;
+    line-height: 53px;
+    text-align: center;
+}
+.our-pra{
+    font-size: 18px;
+    text-align: center;
+}
+/* google sectionnn------------ */
+.google-section{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    top: 4364px;
+    
+    left: 290px;
+    gap: 400px;
+
+}
+/* future sectionnn------------ */
+.future{
+    position: absolute;
+    width: 1440px;
+    height: 100px;
+    left: 240px;
+    top: 4544px;
+    background: #fff4e7;
+}
+.future-pra{
+    text-align: center;
+
 }
